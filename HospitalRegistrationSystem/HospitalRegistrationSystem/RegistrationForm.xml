@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RegistrationForm>
+  <Patient id="1001" name="赵强" type="普通" roomID="2" doctorName="徐洁" state="会诊中"></Patient>
+  <Patient id="1002" name="李萍" type="专家" roomID="1" doctorName="陈建国" state="等待会诊"></Patient>
+  <Patient id="1003" name="王洛" type="普通" roomID="3" doctorName="周泰" state="等待会诊"></Patient>
+  <Patient id="1004" name="沈伟" type="专家" roomID="1" doctorName="陈建国" state="等待会诊"></Patient>
+  <Patient id="1005" name="徐丹" type="普通" roomID="3" doctorName="周泰" state="等待会诊"></Patient>
+  <Patient id="1006" name="孙晶" type="专家" roomID="1" doctorName="陈建国" state="等待会诊"></Patient>
+  <Patient id="1007" name="郑振" type="普通" roomID="2" doctorName="徐洁" state="等待会诊"></Patient>
+  <Patient id="1008" name="王言" type="专家" roomID="1" doctorName="陈建国" state="等待会诊"></Patient>
+  <Patient id="1009" name="尹涛" type="普通" roomID="3" doctorName="周泰" state="等待会诊"></Patient>
+  <Patient id="1010" name="曹艳" type="专家" roomID="1" doctorName="陈建国" state="等待会诊"></Patient>
+  <Patient id="1011" name="吴婷" type="普通" roomID="3" doctorName="周泰" state="等待会诊"></Patient>
+  <Patient id="1012" name="许倩" type="专家" roomID="1" doctorName="陈建国" state="等待会诊"></Patient>
+</RegistrationForm>
